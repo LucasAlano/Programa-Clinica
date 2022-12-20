@@ -1,0 +1,27 @@
+[33mcommit 4b2868bcc2554926ba1b00426f62b0437b3ee318[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Lucas Alano <lucasdeoliveiraalano@gmail.com>
+Date:   Wed Dec 14 16:11:26 2022 -0300
+
+    Create main.py
+
+ main.py | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 068cd08178283aece064b0e37324c84b96f16385[m
+Author: Lucas Alano <lucasdeoliveiraalano@gmail.com>
+Date:   Wed Dec 14 16:02:28 2022 -0300
+
+    Create connection.py
+
+ connection/connection.py | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 2984111e450c24f3d448aafa5c56ea09a1401af3[m
+Author: Lucas Alano <lucasdeoliveiraalano@gmail.com>
+Date:   Wed Dec 14 15:58:32 2022 -0300
+
+    Initial commit
+
+ .gitattributes | 2 [32m++[m
+ README.md      | 2 [32m++[m
+ 2 files changed, 4 insertions(+)
