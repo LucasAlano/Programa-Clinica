@@ -2,6 +2,7 @@ from connection import conexao
 from connection import user
 from connection import schedule
 from connection import price_shcedule
+from reports import reports
 
 
 def menu(con):
@@ -26,8 +27,7 @@ def menu(con):
     elif(opcao == 4):
         price_shcedule.adicionar_preco(con)
     elif(opcao == 5):
-        print('Em andamento!')
-        menu(con)
+        reports.menu_relatorio(con)
     elif(opcao == 6):
         print('Programa encerrado')
         quit()
